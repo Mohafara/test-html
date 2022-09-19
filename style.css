@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+     margin: 0; 
+     padding: 0;
+     font-weight:300px;
+     font-size: 20px;
+}
+header{
+  
+  display: flex;
+  justify-content: space-between;
+  border: 10px solid rgb(241, 241, 241);
+}
+header h2{
+  color: #373F51;
+ margin: 25px auto;
+ padding: 15px;
+ font-size: 40px;
+  
+}
+
+
+ 
+nav{
+  
+  width: 367px;
+  height: 80px;
+  margin-right: 31px;
+  padding-top: 20px;
+  
+}
+ ul{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  font-size: 21px;
+  
+  
+}
+ul li:hover{
+background-color: black;
+}
+
+a{
+  text-decoration: none;
+  color:#dc757d;
+  
+}
+.hero{
+  background-color: rgb(253, 253, 233);
+  margin-left: 35px;
+  margin-right: 35px;
+  display: flex;
+  }
+.hero img{
+  
+  width: 550px;
+  height: 500px;
+  margin-right: 20px;
+}
+.hero p{
+   color: grey;
+   font-size: 67px;
+}
+#parag{
+  background-color:ghostwhite;
+  color:#5C4742;
+  font-size: 23px;
+  text-align: center;
+  height: 70px;
+  padding: 100px;
+  
+ font-family: 'Roboto', sans-serif;
+  
+}
+
+
+.drinks{
+   background-color: white;
+    
+    height: 400px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border:10px solid rgb(241, 241, 241);
+    
+ }
+ .boxes{
+   display: flex;
+   height: 300px;
+   
+   
+  
+ }
+ .box{
+   border: 3px solid rgb(253, 237, 237);
+   border-radius: 10px;
+   
+   
+   
+   
+ }
+ .box img{
+   height: 300px;
+   width: 250px;
+   margin: 30px;
+   padding: 5px;
+   
+ }
+ .tittle{
+   text-align: center;
+ }
+ .food{
+   margin-top: 200px;
+   background-color: ghostwhite;
+   border: 10px solid rgb(241, 241, 241);
+ }
+ .row{
+   display: flex;
+ }
+ 
+ .footer{
+   background-color: #697c8e;
+   height:100px;
+   padding: 30px;
+   padding-top: 87px;
+   display:flex;
+   justify-content: space-between;
+  
+ }
+ .footer div{
+   color: white;
+   
+ }
+ .footer div:hover{
+   background-color: brown;
+   height: 33px;
+ }
+ 
+ 
+
+  
+ 
+ .sub-footer{
+   background-color: cadetblue;
+   height: 50px;
+   text-align:center;
+   padding-top: 20px;
+ }
+ 
+.top{
+  text-align: center;
+}
+
+.cabitan{
+  
+  height: 100px;
+  text-align: center;
+  border: 2px solid rgb(241, 241, 241);
+  margin-left: 23px;
+  padding: 23px;
+}
+.sawir{
+  height: 400px;
+  width: 100%;
+  margin: 20px;
+}
+.alto p{
+  background-color: whitesmoke;
+  color: #1C0B19;
+  font-size: 33px;
+}  
+.fruits {
+  width: 100%;
+  margin-top:33px;
+}
+#dhaweys{
+  text-align: center;
+  font-size: 33px;
+}
+.cunto{
+  text-align: center;
+  border: 5px solid rgb(241, 241, 241);
+  background-color: floralwhite;
+}
+ .fods{
+  width: 100%;
+  height: 1100px;
+  background-color: beige;
+}
+.cuno p{
+  background-color: ghostwhite;
+  height:400px;
+  padding: 33px;
+}
+.madaxa{
+  background-color: floralwhite;
+  text-align: center;
+  height: 250px;
+}
+.madx{
+  height: 1250px;
+  font-size: 30px;
+  color: #1C0B19;
+ 
+}
+.fah {
+  text-align: center;
+  background-color: floralwhite;
+  height: 230px;
+  margin-bottom: 33px;
+}
+.fah p{
+  text-align: center;
+  font-size: 33px;
+  
+}
+.swir{
+
+  margin-top: 23px;
+  height: 300px;
+  width: 40%;
+}
+.tus{
+  font-size: 33px;
+  color: #1C0B19;
+  margin-top: 70px;
+  text-align: center;
+  
+
+}
+form{
+  
+  font-size: 67px;
+  background-color: whitesmoke;
+  border: 4px solid rgb(253, 237, 237);
+  margin-top:53px; 
+  
+  
+}
+.hand{
+  font-size: 46px;
+  margin: 0;
+}
+  
+
+  
+   
+   
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+
+
+ 
